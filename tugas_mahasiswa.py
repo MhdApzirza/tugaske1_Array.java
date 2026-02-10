@@ -1,3 +1,6 @@
+# Nama : Muhammad Apzirza Rafi
+# NIM  : 24106050077
+
 # Inisialisasi kapasitas 10 dengan nilai None (sebagai pengganti null di Java)
 kapasitas = 10
 data_mahasiswa = [[None, None] for _ in range(kapasitas)]

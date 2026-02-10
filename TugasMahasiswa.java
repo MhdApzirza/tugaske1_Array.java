@@ -1,3 +1,6 @@
+// Nama : Muhammad Apzirza Rafi
+// NIM  : 24106050077
+
 import java.util.Scanner;
 
 public class TugasMahasiswa {
