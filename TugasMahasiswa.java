@@ -1,4 +1,4 @@
-// Nama : Muhammad Apzirza Rafi
+// Nama : Mahardika Ahmad
 // NIM  : 24106050077
 
 import java.util.Scanner;
